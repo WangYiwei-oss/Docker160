@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"../commands"
+	"github.com/WangYiwei-oss/Docker160/commands"
 	"github.com/WangYiwei-oss/cli"
 )
 
